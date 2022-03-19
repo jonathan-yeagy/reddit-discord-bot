@@ -1,0 +1,5 @@
+{
+    "id": "[Webhook ID]",
+    "token": "[Webhook Token]",
+    "subreddit": "[subreddit]"
+}
